@@ -11,10 +11,10 @@ profile that looks impressive.
 ### What I'm working on
 
 **[ZoomiBudgets](https://github.com/NolanCodes06/ZoomiBudgets)** is a budgeting
-app for students. I built it from the ground up for a final project my freshman
-year. Vanilla JS, Chart.js, everything living in localStorage. No backend, no
-server, nothing ever leaves your browser. I wrote all of it myself, which meant I
-hit every wall personally. Still the thing I'm proudest of.
+app for students, built for a group final project my freshman year. I wrote the
+application; my teammates handled the proposal and the presentation. Vanilla JS,
+Chart.js, everything living in localStorage. No backend, no server, nothing ever
+leaves your browser. Still the thing I'm proudest of.
 
 Outside of that: getting properly good at JavaScript, working through the CS
 core, and poking at lower level stuff to find out what I actually like.
